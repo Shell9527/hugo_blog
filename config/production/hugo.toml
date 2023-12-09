@@ -1,1 +1,6 @@
 # Overrides for production environment
+baseURL = "https://hugo.xavier9527.top/"
+title = "My Docs"
+theme = "doks"
+enableGitInfo = true
+canonifyURLs = true
